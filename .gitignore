@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Project files
+datacleaning.ipynb
+templates/other-template.txt
+templates/wg-template.txt
+templates/1room-template.txt
+owner_details.xlsx

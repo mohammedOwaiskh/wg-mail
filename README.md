@@ -18,6 +18,7 @@ Finding student accommodation in Trier can be a time-consuming process, requirin
 - `smtplib` (for email automation)
 - `pandas` (for data handling)
 - `dotenv` (for environment variable management)
+- `openpyxl` (for Writing to Excel)
 
 ## 🚀 Getting Started
 
