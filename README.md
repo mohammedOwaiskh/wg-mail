@@ -64,13 +64,14 @@ This will:
 
 ## 📂 Project Structure
 ```
-wohnmail/
+wg-mail/
 │-- main.py          # Entry point of the application
 │-- fetcher.py       # Fetches data from Studienwerk website
-│-- emailer.py       # Handles email sending
+│-- mailer.py        # Handles email sending
 │-- templates/       # Email templates
 │-- requirements.txt # Python dependencies
 │-- README.md        # Project documentation
+|-- LICENSE          # MIT License
 ```
 
 ## 🤝 Contributing

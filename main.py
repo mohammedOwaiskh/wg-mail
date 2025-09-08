@@ -8,7 +8,7 @@ logging.basicConfig(
     level=logging.DEBUG, format="%(asctime)s | %(levelname)s | %(name)s : %(message)s"
 )
 
-from datafetcher import get_owner_data
+from fetcher import get_owner_data
 from mailer import send_email
 
 logger = logging.getLogger(__name__)
